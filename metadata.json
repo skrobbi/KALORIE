@@ -1,0 +1,6 @@
+{
+  "name": "NutriTrack",
+  "description": "Умный трекер питания с распознаванием блюд по фото и тексту через Gemini, локальным кэшем Room и анализом дефицитов нутриентов",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
